@@ -14,6 +14,21 @@ A clamp that can connect to surfaces 0.125" thick for organizing cable runs. The
 LEFT EXTRUDER: 230
 RIGHT EXTRUDER: N/A
 BUILD PLATFORM: 60
+INFILL: 40%
 SUPPORTS: Yes
 EST TIME: (1) 16min, (5) 48 min, (10) 1hr 37min
+```
+
+
+**2020-wire-guide**
+![alt text](./wire-management/2020-wire-guide.png "2020-wire-guide")
+A clamp that secures to 2020 aluminum extrusion using a t-slot nut and M5x8mm flathead screw. X3G files are provided for 1, 5 and 10 copies of the part.
+
+```
+LEFT EXTRUDER: 230
+RIGHT EXTRUDER: N/A
+BUILD PLATFORM: 60
+INFILL: 40%
+SUPPORTS: Yes
+EST TIME: (1) 25min, (5) 47 min, (10) 1hr 35min
 ```
